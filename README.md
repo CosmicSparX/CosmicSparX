@@ -14,8 +14,8 @@
 - ⚡ Fun fact **Tuples in Python are technically mutable. Yes, you read that right. No, I am not dumb.**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
