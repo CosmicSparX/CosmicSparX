@@ -16,8 +16,8 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'CosmicSparX' # Hashnode Username
-          # BLOG_URL: 'https://cosmiccaudex.hashnode.dev/' # Blog URL
+          USERNAME: 'cosmiccaudex' # Hashnode Username
+          BLOG_URL: 'https://cosmiccaudex.hashnode.dev/' # Blog URL
           COUNT: 3 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
