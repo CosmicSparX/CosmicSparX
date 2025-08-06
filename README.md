@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [My resume](https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing)
 
-- ⚡ Fun fact **Tuples in Python are technically mutable. Yes, you read that right. No, I am not dumb.**
+- ⚡ Fun fact: **Tuples in Python are technically mutable. Yes, you read that right. No, I am not dumb.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
