@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Django, Go, gRPC, Microservice Architecture**
 
-- 📝 I regularly write articles on [https://cosmiccaudex.hashnode.dev/](https://cosmiccaudex.hashnode.dev/)
+- 📝 I regularly write articles on [cosmiccaudex.hashnode.dev](https://cosmiccaudex.hashnode.dev/)
 
 - 💬 Ask me about **Python, Go, and DSA**
 
-- 📫 How to reach me **kpranay661@gmail.com**
+- 📫 How to reach me: **kpranay661@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing](https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing)
+- 📄 Know about my experiences: [My resume](https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing)
 
-- ⚡ Fun fact **|-/**
+- ⚡ Fun fact **Tuples in Python are technically mutable. Yes, you read that right. No, I am not dumb.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
