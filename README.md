@@ -3,20 +3,27 @@
 
 - 🌱 I’m currently learning **Django, Go, gRPC, Microservice Architecture**
 
-- 📝 I regularly write articles on [cosmiccaudex.hashnode.dev](https://cosmiccaudex.hashnode.dev/)
+- 📝 I regularly write articles on [https://cosmiccaudex.hashnode.dev/](https://cosmiccaudex.hashnode.dev/)
 
 - 💬 Ask me about **Python, Go, and DSA**
 
-- 📫 How to reach me: **kpranay661@gmail.com**
+- 📫 How to reach me **kpranay661@gmail.com**
 
-- 📄 Know about my experiences: [My resume](https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing](https://docs.google.com/document/d/1LtUubCqtaHNkbBJyDGIZYVkSNzf6W6ejbMBk-y3_RhA/edit?usp=sharing)
 
-- ⚡ Fun fact: **Tuples in Python are technically mutable. Yes, you read that right. No, I am not dumb.**
+- ⚡ Fun fact **Tuples in Python are technically mutable. Yes, you read that right. No, I am not dumb.**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cosmicsparx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cosmicsparx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranay-sinha661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-sinha661" height="30" width="40" /></a>
+<a href="https://hashnode.com/@cosmicsparx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cosmicsparx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cosmic_sparx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cosmic_sparx" height="30" width="40" /></a>
+<a href="/https://cosmiccaudex.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://cosmiccaudex.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicsparx&show_icons=true&locale=en&layout=compact" alt="cosmicsparx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicsparx&show_icons=true&locale=en" alt="cosmicsparx" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicsparx&" alt="cosmicsparx" /></p>
 
