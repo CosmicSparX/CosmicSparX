@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a full-stack developer with a B. Tech in AI and Data Science, experienced in building and deploying scalable web applications. 
-<br>My skills include:<br><br>Languages: Python, Go, JavaScript, and Rust.<br>Frameworks: Go (Echo, gin, net/http), Django, Flask, FastAPI, and Node.js on the backend, and React.js, Next.js, and Tailwind CSS on the frontend.<br>Databases: PostgreSQL, MySQL, MongoDB, and Neo4j.<br>Tools & Platforms: Git, Docker, Redis, RabbitMQ, and AWS.
+<br><br>Languages: Python, Go, JavaScript, and Rust.<br>Frameworks: Go (Echo, gin, net/http), Django, Flask, FastAPI, and Node.js on the backend, and React.js, Next.js, and Tailwind CSS on the frontend.<br>Databases: PostgreSQL, MySQL, MongoDB, and Neo4j.<br>Tools & Platforms: Git, Docker, Redis, RabbitMQ, and AWS.
 
 
 ## 🌐 Socials:
