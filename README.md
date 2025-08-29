@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Sinha</h1>
 <h3 align="center">A Full stack developer proficient in Python and Go</h3>
 
-- 🌱 I’m currently learning **Django, Go, gRPC, Microservice Architecture, and Quantum Computing**
+- 🌱 I’m currently learning **Django, Go, NestJS, gRPC, Microservice Architecture, and Quantum Computing**
 
 - 📝 I regularly write articles on [cosmiccaudex.hashnode.dev/](https://cosmiccaudex.hashnode.dev/)
 
